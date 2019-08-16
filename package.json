@@ -1,0 +1,12 @@
+{
+    "name": "local_office_test",
+    "description": "http API test",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "test_flow.json",
+            "credentialsFile": "test_flow_cred.json"
+        }
+    }
+}
